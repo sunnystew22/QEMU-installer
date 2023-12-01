@@ -4,4 +4,6 @@ A script to automatically install QEMU on Ubuntu systems.
 
 You can run this script using the command below or git cloning this repo.
 
-`wget https://github.com/sunnystew22/QEMU-installer/raw/main/QEMU-install.sh && chmod +x QEMU-install.sh && ./QEMU-install.sh`
+``` sh 
+wget https://github.com/sunnystew22/QEMU-installer/raw/main/QEMU-install.sh && chmod +x QEMU-install.sh && ./QEMU-install.sh
+```
