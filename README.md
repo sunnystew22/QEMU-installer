@@ -1,6 +1,4 @@
 # QEMU-installer
-## ⚠️Warning! Development builds are unstable!
-
 # QEMU-installer
 ## ⚠️Warning! Development builds are unstable!
 A script to automatically install QEMU on Ubuntu systems.
